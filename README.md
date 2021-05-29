@@ -27,9 +27,9 @@
 </p>
   
   <p align="center">
-<img src="https://github.com/MohsinTheLegend/MohsinThelegend/blob/MohsinTheLegend/img/python_MohsinTheLegend_23511.jpg">
+<img src="https://github.com/WahibZab/WahibZab/blob/WahibZab/img/python_wahibzab_23511.jpg">
 <p align="center">
-
+  
 # Installation :
 
 😈 `apt update`
