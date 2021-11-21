@@ -60,7 +60,7 @@
 
 😈 `cd MOHSIN-TOOL`
 
-👾 `python2 MOHSIN.Says`
+👾 `python2 MOHSIN.py`
 
 
 <h1 align="center"> MY SOCIAL MEDIA </h1>
